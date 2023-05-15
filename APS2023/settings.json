@@ -1,0 +1,59 @@
+{
+  "metaTitle": "Tak Tsun (Edmund) LO Presents Emotion Dynamics in #APS23DC",
+  "metaDescription": "Extra information on Edmund's research in emotion differentiation and emotion regulation variability, presented in 2023 APS Annual Convention #APS23DC.",
+  "name": "Tak Tsun (Edmund) LO",
+  "theme": "menu",
+  "avatarImage": "https://pbs.twimg.com/profile_images/1356768097110089728/7gSv3XH5_400x400.jpg",
+  "links": [
+    {
+      "url": "https://osf.io/9vx7t",
+      "text": "[Flash Talk+Poster]: Hold to behold: less emotion regulation variability predicts better emotion differentiation",
+      "img":"asset/logo_ED.png",
+      "altText": "Access pre-registration"
+    },    
+    {
+      "url": "https://github.com/taktsun/ERV_simulation",
+      "text": "[Symposium] A theory-informed emotion regulation variability index: Bray-Curtis dissimilarity",
+      "img":"asset/logo_ERV.png",
+      "altText": "Access pre-print and R codes for the paper"
+    },
+    {
+      "url": "https://github.com/taktsun/dissimilarity-for-ESM-data",
+      "text": "R script to calculate multivariate temporal variability with Bray-Curtis dissimilarity",
+      "img":"https://www.r-project.org/logo/Rlogo.png",
+      "altText": "R tutorial on how to calculate Bray-Curtis dissimilarity with ESM data"
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena":"",
+    "bandcamp": "",
+    "cohost":"",
+    "dev": "",    
+    "facebook": "",
+    "github": "https://github.com/taktsun",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "keybase":"",
+    "kofi": "",
+    "letterboxd":"",
+    "linkedin": "https://www.linkedin.com/in/edmundttlo",
+    "mastodon": "",
+    "medium": "",
+    "patreon": "",
+    "pinboard":"",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "https://twitter.com/taktsun",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "",
+    "email": "edmund.lo@ru.nl"
+  }
+}
