@@ -8,20 +8,20 @@
     {
       "url": "https://osf.io/9vx7t",
       "text": "[Flash Talk+Poster]: Hold to behold: less emotion regulation variability predicts better emotion differentiation",
-      "img":"asset/logo_ED.png",
+      "img":"https://cdn.glitch.global/2af4f50e-a0db-481a-84a3-e86619a866a5/logo_ED.png?v=1684157379453",
       "altText": "Access pre-registration"
     },    
     {
       "url": "https://github.com/taktsun/ERV_simulation",
       "text": "[Symposium] A theory-informed emotion regulation variability index: Bray-Curtis dissimilarity",
-      "img":"asset/logo_ERV.png",
+      "img":"https://cdn.glitch.global/2af4f50e-a0db-481a-84a3-e86619a866a5/logo_ERV.png?v=1684167054686",
       "altText": "Access pre-print and R codes for the paper"
     },
     {
       "url": "https://github.com/taktsun/dissimilarity-for-ESM-data",
-      "text": "R script to calculate multivariate temporal variability with Bray-Curtis dissimilarity",
+      "text": "R code to calculate multivariate temporal variability with Bray-Curtis dissimilarity",
       "img":"https://www.r-project.org/logo/Rlogo.png",
-      "altText": "R tutorial on how to calculate Bray-Curtis dissimilarity with ESM data"
+      "altText": "Access pre-registration"
     }
   ],
   "social": {
