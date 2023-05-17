@@ -129,8 +129,7 @@ h4,
 h5 {
   margin: 2rem 0 0.8rem;
   font-family: var(--font-family-header);
-  font-weight: bold;
-  line-height: 1.1;
+  line-height: 1;
   color: var(--color-text-main);
 }
 h1 {
