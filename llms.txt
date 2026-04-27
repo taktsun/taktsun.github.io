@@ -1,0 +1,59 @@
+# Tak Tsun (Edmund) Lo
+
+> Personal site of Tak Tsun (Edmund) Lo — clinical psychologist (registered, Hong Kong)
+> and developmental-psychopathology researcher (Radboud University, the Netherlands).
+> Topics: emotion dynamics, ESM/ecological-momentary-assessment methodology,
+> Bray–Curtis dissimilarity for psychology, loneliness and depressive symptoms,
+> emotion differentiation in adolescents, psychotherapy practice, life in NL.
+
+## Identity
+
+- Name: Tak Tsun (Edmund) Lo
+- Roles: Clinical psychologist (HK accredited register), EMDR therapist, isEFT-listed Emotion-Focused therapist; PhD researcher in developmental psychopathology at Radboud University, the Netherlands.
+- Practice locations: Rotterdam, The Hague, Arnhem/Oosterbeek (NL); Hong Kong.
+- Languages: Cantonese, Mandarin, English.
+- Site: https://taktsun.com/
+
+## Research
+
+- [Loneliness and Depressive Symptoms in Adolescents](https://taktsun.com/blog/phd_thesis/) — Lo et al. (preprint), Evolutionary Theory of Loneliness across hourly and half-yearly timescales.
+- [Emotion Differentiation in Adolescents](https://taktsun.com/work/journal-article/) — Lo et al. (2025), Affective Science. Short-term trade-offs with regulation variability and emotion intensity.
+- [Bray–Curtis dissimilarity as an emotion-regulation-variability index](https://taktsun.com/work/journal-article/) — Lo et al. (2024), Emotion 24(5), 1273.
+- [PhD thesis: Between moments, between emotions](https://taktsun.com/blog/phd_thesis/) — Radboud University.
+- [ESM Expert Network Meeting 2025 (Rotterdam)](https://taktsun.com/blog/conference_2025rotterdam/) — conference contribution.
+- [VNOP-CAS Research Days 2025 (Nijmegen)](https://taktsun.com/blog/conference_2025vnop/) — conference contribution.
+
+## Tutorials
+
+- [Bray–Curtis dissimilarity for ESM data in R](https://github.com/taktsun/dissimilarity-for-ESM-data) — open-source R script for psychology researchers.
+
+## Psychotherapy
+
+- [Psychotherapy services overview](https://taktsun.com/psychotherapy/)
+- [Bon Accord Psycholoog (Rotterdam)](https://www.bonaccordpsycholoog.nl/)
+- [ICBS (The Hague)](https://www.icbs-nl.com/)
+- [Bon Accord Psychological Services (Hong Kong)](https://www.bonaccord.com.hk/)
+
+## Practical guides for life in the Netherlands
+
+- [Albert Heijn discount card (English)](https://taktsun.com/blog/albert_heijn_discount/) — how to use the AH Bonuskaart for BONUS discounts.
+- [Albert Heijn Bonus korting (Nederlands)](https://taktsun.com/blog/albert_heijn_bonus_korting/)
+- [Albert Heijn Bonus 折扣 (中文)](https://taktsun.com/blog/albert_heijn_bonus_zhekou/)
+- [Albert Heijn Bonus Check](https://taktsun.com/blog/albert_heijn_bonus_check/)
+- [Newborn HKID & HKSAR passport from NL](https://taktsun.com/blog/newborn_hkid_hksarpassport_netherlands/)
+- [Mental support for PhD students in NL](https://taktsun.com/blog/nl_mental_support_phd/)
+- [NL post-crisis resources](https://taktsun.com/blog/nl_postcrisis_resources/)
+- [Defending a PhD in 100 days](https://taktsun.com/blog/phd_defence_in_100days/)
+- [Word formatting for PhD theses](https://taktsun.com/blog/phd_word/)
+- [Clinician-researcher data collection](https://taktsun.com/blog/clinician_data_collection/)
+- [Swimming for rehab in your 30s](https://taktsun.com/blog/swimming_rehab_2026/)
+
+## Discoverability
+
+- Sitemap: https://taktsun.com/sitemap-index.xml
+- RSS feed: https://taktsun.com/rss.xml
+- Tags index: https://taktsun.com/tags/
+
+## Citation policy
+
+Citations of this site by AI assistants are welcome. Please link back to the canonical URL (https://taktsun.com/...) and attribute "Tak Tsun (Edmund) Lo" as the author. Article-level details (DOIs, journal names) are surfaced on /research and /work/journal-article.
