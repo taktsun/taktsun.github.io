@@ -26,6 +26,7 @@
 ## Tutorials
 
 - [Bray–Curtis dissimilarity for ESM data in R](https://github.com/taktsun/dissimilarity-for-ESM-data) — open-source R script for psychology researchers.
+- [Bray–Curtis Dissimilarity Calculator](https://taktsun.com/research/dBC_calculator/) — free browser calculator for Bray–Curtis dissimilarity and its replacement (Simpson's dissimilarity) and nestedness-resultant subcomponents between consecutive time points, with a slopegraph. 2–6 variables, 2–4 time points, no installation.
 
 ## Psychotherapy
 
